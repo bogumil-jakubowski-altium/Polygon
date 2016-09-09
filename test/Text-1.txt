@@ -1,1 +1,3 @@
-new file - master  commit 2
+
+new file - master  after merge from b2 c2
+
